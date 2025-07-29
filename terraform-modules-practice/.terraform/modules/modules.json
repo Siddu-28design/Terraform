@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"m1","Source":"./config","Dir":"config"},{"Key":"m2","Source":"./config","Dir":"config"},{"Key":"m3","Source":"git::https://github.com/Siddu-28design/Terraform-Adisir.git","Dir":".terraform/modules/m3"}]}
